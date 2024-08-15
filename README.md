@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sreenu2004&show_icons=true&locale=en" alt="sreenu2004" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreenu2004&" alt="sreenu2004" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sreenu2004&" alt="sreenivasulu-thimmapuram" /></p>
